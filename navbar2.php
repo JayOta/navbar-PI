@@ -6,17 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Navbar</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="navbar2.css">
 </head>
 
 <body>
     <form method="post">
         <nav class="navbar">
-            <div class="container-fluid">
+            <div class="container-navbar">
                 <a href="inicial.php">
                     <img src="logo-volei.png" class="logo-img">
                 </a>
-                <ul class="navigation">
+                <ul class="links-navigation">
                     <li id="inicial" href="inicial.php">Início</li>
                     <li id="link-2" href="fundamentos.php">Fundamentos</li>
                     <li id="link-3" href="noticias.php">Notícias</li>
